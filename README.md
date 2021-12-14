@@ -1,16 +1,22 @@
-### Hi there 👋
+# Davide Missiato
 
+### Ciao!👋
+Sono Davide, un giovane appassionato di tecnologia e sviluppo!✨
+
+- 🔭 Lavoro principalmente con Javascript(React), HTML, CSS(SASS).
+- 🌱 Attualmente sto seguendo un bootcamp su ReactJs!
+- 👯 Ho lavorato con VB.NET, PHP, C#.
+- 🤔 Primi approcci alla programmazione: le basi di C/C++.
+- 📫 Puoi trovarmi su [Linkedin](https://www.linkedin.com/in/davide-missiato/).
+
+#### My skills:
+
+![HTML](https://camo.githubusercontent.com/c82fbcc2fcf16cdb2d8522a1ec04d7f7f2237b1325c3cc8a27bab3a871a02da8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d4533344632363f6c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765)
+![CSS](https://camo.githubusercontent.com/3e884cd542debe9e723dba95f5be9ed2ce600f41bc9f468280e44a332c496b32/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d3135373242363f6c6f676f3d63737333266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765)
+![Javascript](https://camo.githubusercontent.com/f1ce1218eb39d7e7b6d246fb5ce1f6340158187e17ba462750de73e09cd8864f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765)
+![SASS](https://camo.githubusercontent.com/c93c5b901495fcf927f1b40a72c432aa56b53338d490eb435a815330d9ef3e2e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536173732d4343363639393f6c6f676f3d73617373266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765)
+![ReactJs](https://camo.githubusercontent.com/876426d64480dd18283dc72bcf0f293d6871c746d5358168e28565efc1c0334d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f6c6f676f3d7265616374266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765)
 <!--
-**DMissiato/DMissiato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
