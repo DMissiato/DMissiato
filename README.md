@@ -4,7 +4,7 @@
 Sono Davide, un giovane appassionato di tecnologia e sviluppo!✨
 
 - 🔭 Lavoro principalmente con Javascript(React), HTML, CSS(SASS).
-- 🌱 Attualmente sto seguendo un bootcamp su ReactJs!
+- 🌱 Di recente ho frequentato un bootcamp intensivo su ReactJs.
 - 👯 Ho lavorato con VB.NET, PHP, C#.
 - 🤔 Primi approcci alla programmazione: le basi di C/C++.
 - 📫 Puoi trovarmi su [Linkedin](https://www.linkedin.com/in/davide-missiato/).
